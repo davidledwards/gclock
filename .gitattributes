@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.rs rust
+*.md markdown
+*.png binary
+*.jpg binary
+*.drawio binary

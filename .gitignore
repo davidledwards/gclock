@@ -1,0 +1,10 @@
+.DS_Store
+*.elf
+*.hex
+.vscode/
+build/
+/.env
+/.config
+/config.h
+/.config-*
+/config-*.h
