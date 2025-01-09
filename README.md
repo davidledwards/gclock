@@ -1,4 +1,4 @@
-# G Clock
+# gclock
 
 A [Rust](https://www.rust-lang.org/) version of the original [GPS Clock](https://github.com/davidledwards/gps-clock).
 
